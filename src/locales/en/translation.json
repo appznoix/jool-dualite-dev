@@ -1,0 +1,66 @@
+{
+  "header": {
+    "home": "Home",
+    "properties": "Properties",
+    "whyJool": "Why Jool",
+    "contact": "Contact"
+  },
+  "hero": {
+    "headline": "Oceanfront Living Has Never Been So Exclusive",
+    "subheadline": "Discover a curated selection of luxury properties in Ceará's most desirable locations.",
+    "cta": "Explore Properties"
+  },
+  "featuredProperties": {
+    "title": "Featured Properties",
+    "from": "From",
+    "areaUnit": "sqm",
+    "explore": "Explore"
+  },
+  "whyJool": {
+    "title": "The Exclusivity of Choosing JOOL",
+    "item1_title": "Privileged Locations",
+    "item1_desc": "Our properties are located in the most coveted spots on the Ceará coast.",
+    "item2_title": "High-End Curation",
+    "item2_desc": "We select only projects that combine architecture, design, and quality of life.",
+    "item3_title": "Complete Advisory",
+    "item3_desc": "We offer personalized service from the beginning to the end of your buying journey."
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "quote": "JOOL turned our dream into reality. The service was impeccable, and we found the perfect property for our family. The exclusivity and attention to every detail impressed us.",
+    "author": "Ana & Roberto M."
+  },
+  "footer": {
+    "contact": "Contact",
+    "slogan": "Your exclusive seaside retreat.",
+    "rights": "All rights reserved."
+  },
+  "whatsapp": "Talk to a specialist",
+  "propertyDetail": {
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "area": "Area",
+    "parking": "Parking",
+    "description": "Description",
+    "amenities": "Amenities",
+    "floorPlans": "Floor Plans",
+    "location": "Location",
+    "viewGallery": "View Gallery",
+    "requestInfo": "Request Information",
+    "form": {
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "defaultMessage": "Hello, I am interested in the {propertyName} property and would like to receive more information. Thank you.",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully! We will contact you soon.",
+      "error": "An error occurred. Please try again later.",
+      "validation": {
+        "required": "This field is required",
+        "email": "Please enter a valid email"
+      }
+    }
+  }
+}
